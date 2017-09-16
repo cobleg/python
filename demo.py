@@ -1,5 +1,6 @@
 # Objective: demonstration of linear regression in Python for machine learning
 # Source: Siraj Raval, How to Make a Prediction - Intro to Deep Learning #1
+# Notes: script prepared for Python 3.6.0
 
 import pandas as pd
 from sklearn import linear_model
