@@ -2,6 +2,7 @@
 # Source: Siraj Raval, How to Make a Prediction - Intro to Deep Learning #1
 # Notes: script prepared for Python 3.6.0
 
+
 import pandas as pd
 from sklearn import linear_model
 import matplotlib.pyplot as plt
