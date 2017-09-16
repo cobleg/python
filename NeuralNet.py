@@ -1,6 +1,8 @@
 # Objective: create a neural network with two layers
+# Notes: this is developed for Python 3.6.0
 import numpy as np
 
+# define activation function
 def  nonlin(x,deriv=False):
         if(deriv==True):
             return x*(1-x)
